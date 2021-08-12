@@ -1,0 +1,9 @@
+.btn {
+  border: 1px solid $pink;
+  border-radius: 35px;
+  color: $pink;
+  &:hover {
+    border: 1px solid $purple;
+    color: $purple;
+  }
+}
