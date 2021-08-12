@@ -13,6 +13,8 @@
 @import "pages/index";
 @import "lists";
 
-h4 {
+.container h4 {
   color: $orange;
+  margin-bottom: 24px;
+  text-align: center;
 }
