@@ -7,3 +7,14 @@
     color: $purple;
   }
 }
+
+.btn-movie {
+  border: 1px solid white;
+  border-radius: 35px;
+  color: white;
+  &:hover {
+    border: 1px solid white;
+    color: white;
+    opacity: 0.6;
+  }
+}
