@@ -13,6 +13,19 @@
 @import "pages/index";
 @import "lists";
 
+html, body {
+  height: 100%;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+}
+
+.content {
+  flex: 1 0 auto;
+}
+
 .container h4 {
   margin-bottom: 24px;
   text-align: center;

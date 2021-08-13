@@ -1,9 +1,10 @@
 .navbar-lewagon {
   justify-content: space-between;
-  background: linear-gradient($pink, $orange);;
+  background: linear-gradient($pink, $orange);
   a {
     color: white;
   }
+  padding: 1rem 1rem;
 }
 
 .navbar-lewagon .navbar-collapse {
